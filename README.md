@@ -5,9 +5,9 @@ Having completed several hands-on projects, I’ve honed my skills in tools like
 
 ## What You’ll Find Here
 In this repository, you'll discover a variety of projects showcasing my analytical skills, including:
-*Data Cleaning and Preparation: Techniques for transforming raw data into a usable format.
-*Exploratory Data Analysis (EDA): Visualizations and insights that reveal trends and patterns.
-*Dashboards: Interactive visualizations that communicate findings effectively.
+* Data Cleaning and Preparation: Techniques for transforming raw data into a usable format.
+* Exploratory Data Analysis (EDA): Visualizations and insights that reveal trends and patterns.
+* Dashboards: Interactive visualizations that communicate findings effectively.
 
 I’m excited to connect with fellow data enthusiasts, share knowledge, and collaborate on innovative projects. Feel free to explore my work, provide feedback, or reach out for collaboration opportunities!
 
