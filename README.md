@@ -1,4 +1,4 @@
-#### I'm Mohammed Abdul Baseer, an aspiring data analyst, passionate about transforming data into actionable insights. With a strong foundation in statistics and data visualization, I thrive on unraveling complex datasets to tell compelling stories.
+### I'm Mohammed Abdul Baseer, an aspiring data analyst, passionate about transforming data into actionable insights. With a strong foundation in statistics and data visualization, I thrive on unraveling complex datasets to tell compelling stories.
 
 ## My Journey
 Having completed several hands-on projects, I’ve honed my skills in tools like Python, R, SQL, Excel, Power BI and Tableau. Each project reflects my commitment to continuous learning and my enthusiasm for tackling real-world problems through data analysis.
